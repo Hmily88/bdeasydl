@@ -36,7 +36,8 @@
 
 # 报告模板
 模板文件在/WinFormDemo1/template.docx 
-可以自行更改模板内容，生成后可以按照该模板样式替换检测的图片文本
+可以自行更改模板内容，生成后可以按照该模板样式替换检测的图片文本  
+template.docx文件设置了需要和软件放在同一目录下，自己生成后放一起就行了，自己也可以在源码里面更改
 ![image](https://user-images.githubusercontent.com/75898236/194805695-b4239d87-51b3-4c46-b33b-89d21dc0bdc8.png)
 
 
